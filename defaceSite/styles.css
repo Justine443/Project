@@ -1,0 +1,23 @@
+body {
+
+	background-color: black;
+
+}
+
+img {
+
+	float: left;
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 100px;
+
+}
+
+h1 {
+
+	color: red;
+	font-family: "bold";
+	font-size: 15px;
+	margin-left: 400p;
+
+}
